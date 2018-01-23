@@ -1,0 +1,44 @@
+
+/* CSS Document */
+
+
+body{
+font-family: sans-serif;
+}
+em{ font-family: serif;}
+
+p { color: maroon;}
+
+
+h1, h2
+{
+font-family: sans-serif;
+color: gray; 
+
+}
+
+
+h1{border-bottom: 1px solid #000000;}
+
+
+
+.greentea{
+color: green; 
+}
+
+
+.blueberry{
+color: purple;
+}
+
+.raspberry{
+color:blue;
+}
+
+.cranberry{
+color:maroon;
+}
+
+
+
+

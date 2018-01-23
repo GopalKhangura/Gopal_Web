@@ -1,0 +1,46 @@
+
+/* CSS Document */
+
+
+body{
+font-family: Verdana, Arial, Geneva, sans-serif;
+}
+
+body{ 
+	font-size: small;
+}
+h2{ 
+	font-size: 1.2em;
+}
+
+
+h1{
+text-decoration: overline ; color:#cc6600;
+}
+h2{
+text-decoration: overline ; color:#cc6600;
+}
+
+h1,h2{ 
+	font-weight: normal;
+}
+
+
+h1.ex {
+	width: thin;
+}
+h2.ex {
+	width: thin;
+}
+h1	{
+	border-bottom-style: dotted;
+	border-bottom-style: black;
+	border-bottom-style: 1px;
+}
+h2	{
+	border-bottom-style: dotted;
+	border-bottom-style:black;
+	border-bottom-style:1px;
+}
+
+
